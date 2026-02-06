@@ -9,6 +9,7 @@ import lombok.Data;
 public class PeliculaEntity extends BaseEntity {
     
 
+
     private String titulo;
     private int anioLanzamiento;
 
